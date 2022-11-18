@@ -1,0 +1,67 @@
+{
+  "79559561" : {
+    "Cargo" : "\"Tecnólogo\"",
+    "Nombre" : "\"Luis Demetrio Torres\"",
+    "clave" : "9561"
+  },
+  "79824132" : {
+    "Cargo" : "\"Inspector\"",
+    "Nombre" : "\"Javier Antonio Montes Abella\"",
+    "clave" : "4132"
+  },
+  "80219396" : {
+    "Cargo" : "\"Tecnólogo Auxiliar nocturno\"",
+    "Nombre" : "\"John Deivid Rubio\"",
+    "clave" : "9396"
+  },
+  "1013652777" : {
+    "Cargo" : "\"Auxiliar de ingenieria\"",
+    "Nombre" : "\"Maria Camila Tellez Rodriguez\"",
+    "clave" : "1626"
+  },
+  "1022413496" : {
+    "Cargo" : "\"Tecnólogo Auxiliar\"",
+    "Nombre" : "\"Daniel Andrés Bohorquez Genoy\"",
+    "clave" : "1611"
+  },
+  "1026285384" : {
+    "Cargo" : "\"Tecnólogo\"",
+    "Nombre" : "\"Carlos Norwey Méndez León\"",
+    "clave" : "5384"
+  },
+  "1031126279" : {
+    "Cargo" : "\"Tecnólogo\"",
+    "Nombre" : "\"Hugo Alejandro Serrato Vanegas\"",
+    "clave" : "6279"
+  },
+  "1031131267" : {
+    "Cargo" : "\"Auxiliar de ingenieria\"",
+    "Nombre" : "\"Jonathan Alexander Chila Guevara\"",
+    "clave" : "1267"
+  },
+  "1032428916" : {
+    "Cargo" : "\"Inspectora\"",
+    "Nombre" : "\"Leidy Patricia Alarcón Bello\"",
+    "clave" : "8916"
+  },
+  "1049643498" : {
+    "Cargo" : "\"Auxiliar de Ingeniería\"",
+    "Nombre" : "\"Ivan Camilo Ramírez Gil\"",
+    "clave" : "3498"
+  },
+  "1049646977" : {
+    "Cargo" : "\"Auxiliar de Ingeniería\"",
+    "Nombre" : "\"Sergio Andres Castro Santamaria\"",
+    "clave" : "6977"
+  },
+  "1052403292" : {
+    "Cargo" : "\"Auxiliar de Ingeniería\"",
+    "Nombre" : "\" Edwar Efren Bello Manrrique\"",
+    "clave" : "3292"
+  },
+  "1075669355" : {
+    "Cargo" : "\"Auxiliar de ingenieria\"",
+    "Nombre" : "\"Edison Francisco Rodriguez Caballero\"",
+    "clave" : "9355"
+  }
+}
